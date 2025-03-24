@@ -532,6 +532,7 @@ pygame.quit()
 
 
 
+
 #whenever a mob is killed it duplicates
 #upgrades r disabled
 
